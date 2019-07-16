@@ -1,0 +1,10 @@
+doom.arm /usr/bin
+doomded.arm /usr/bin
+gamearm-base.so /usr/lib/doom3
+gamearm-d3xp.so /usr/lib/doom3
+debian/doom3.png /usr/share/icons/hicolor/80x80/apps
+debian/doom3.desktop	/usr/share/applications
+debian/Harmattan_README.txt /usr/lib/doom3
+debian/DOOM_III /usr/lib/doom3
+debian/cfg/*.cfg	/usr/lib/doom3
+resc/*.png	/usr/lib/doom3/resc

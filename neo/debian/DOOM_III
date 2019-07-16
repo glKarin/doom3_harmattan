@@ -1,0 +1,7 @@
+#/bin/sh
+
+R="/usr/bin/doom.arm +set r_glDriver /usr/lib/libGLES_CM.so +set r_fullScreen 1 +set com_showFPS 1 +set sys_videoRam 128 +set h_S_usingAlsa 0 $*"
+
+echo ${R}
+
+${R}

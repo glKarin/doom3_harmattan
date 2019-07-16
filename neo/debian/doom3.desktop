@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=DOOM III
+Exec=/usr/lib/doom3-glsl/DOOM_III
+Icon=/usr/share/icons/hicolor/80x80/apps/doom3-glsl_80.png
+X-Osso-Type=application/x-executable

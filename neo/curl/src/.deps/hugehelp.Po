@@ -1,0 +1,5 @@
+hugehelp.o: hugehelp.c /usr/include/stdc-predef.h hugehelp.h
+
+/usr/include/stdc-predef.h:
+
+hugehelp.h:
